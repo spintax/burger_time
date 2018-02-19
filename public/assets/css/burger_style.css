@@ -1,7 +1,26 @@
-li {
-    padding: 5px;
+/* li {
+  display: flex;
+  justify-content: center;
+    /* padding: 5px;
     margin: 5px;
-    background: #faebd7;
+    background: #faebd7; */
+  /* }
+
+  #devoured {
+    position: relative;
+    display: block;
+
+  }
+
+  #toDevour {
+    position: relative;
+    display: block;
+
+  }
+
+  #title {
+    width: 100%;
+    displ
   }
   
   .label {
@@ -17,3 +36,21 @@ li {
   .form-group {
     margin-bottom: 5px;
   }
+
+  .container-fluid {
+    display: flex;
+  justify-content: center;
+  } */
+
+  /* .list-o-burgers {
+    display: flex;
+    justify-content: center;
+}
+
+.yummy-burger {
+    margin: 0 50px;
+}
+
+.yummy-burger img {
+    width: 200px;
+} */ 
